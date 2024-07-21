@@ -100,7 +100,7 @@ function App() {
 
   return (
     <main>
-    <h1>Developed by -Sourav</h1>
+    <h1>Developed by Sourav</h1>
       <div id="game-container">
         <ul id="players" className="highlight-player">
           <Player
